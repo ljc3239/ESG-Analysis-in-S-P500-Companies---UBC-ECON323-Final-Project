@@ -12,8 +12,11 @@ Groups Members: Subhan Chiluwal, Jacqueline Pelayo, Flavio Cruciani, Lloyd Cicer
 # Appendices
 
 [Appendix A](https://ljc3239.github.io/Appendix-A-/)
+<br>
 [Appendix B](https://ljc3239.github.io/Appendix-B)
+<br>
 [Appendix C](https://ljc3239.github.io/Appendix-C/)
+<br>
 [Appendix D](https://ljc3239.github.io/Appendix-D/)
 
 
