@@ -7,17 +7,17 @@ In this project, we delve into the intricate relationship between Environmental,
 Groups Members: Subhan Chiluwal, Jacqueline Pelayo, Flavio Cruciani, Lloyd Ciceron
 
 # Final Project
-[Final Project](https://ljc3239.github.io/ESG-Analysis-of-S-P-500-Companies/)
+[Final Project](https://ljc3239.github.io/ESG-Analysis-of-S-P-500-Companies/){:target="_blank"}
 
 # Appendices
 
-[Appendix A](https://ljc3239.github.io/Appendix-A-/)
+[Appendix A](https://ljc3239.github.io/Appendix-A-/){:target="_blank"}
 <br>
-[Appendix B](https://ljc3239.github.io/Appendix-B)
+[Appendix B](https://ljc3239.github.io/Appendix-B){:target="_blank"}
 <br>
-[Appendix C](https://ljc3239.github.io/Appendix-C/)
+[Appendix C](https://ljc3239.github.io/Appendix-C/){:target="_blank"}
 <br>
-[Appendix D](https://ljc3239.github.io/Appendix-D/)
+[Appendix D](https://ljc3239.github.io/Appendix-D/){:target="_blank"}
 
 
 
